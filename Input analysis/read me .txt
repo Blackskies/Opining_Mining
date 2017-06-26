@@ -1,0 +1,8 @@
+#PRE-REQUISISTS PACKAGES
+
+1.TextBlob
+2.NLTK
+3.Regular Expressions
+
+#PYTHON VERSION USED
+python -3 and python -2
